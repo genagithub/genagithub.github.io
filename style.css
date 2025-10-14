@@ -9,7 +9,7 @@ header{
     margin: 0;
 }
 h1{
-    font-size: 2.6em;
+    font-size: 2.2em;
     font-family: sans-serif;
     font-weight: bold;
     color: white;
@@ -17,7 +17,7 @@ h1{
     margin-bottom: 5px;
 }
 h2{
-    font-size: 1.7em;
+    font-size: 1.3em;
     font-family: sans-serif;
     font-weight: bold;
     color: white;
@@ -101,7 +101,7 @@ h2{
     url(proyecto-7.png);
 }
 a{
-    font-size: 2.9em;
+    font-size: 2.5em;
     font-family: sans-serif;
     font-weight: bold;
     color: white;
@@ -117,9 +117,10 @@ a:hover{
     transform: scale(1.15);
 }
 p{
-    font-size: 1.95em;
+    font-size: 1.55em;
     font-family: sans-serif;
     font-weight: bold;
     color: white;
     text-shadow: 2px 2px 4px black
+
 }
