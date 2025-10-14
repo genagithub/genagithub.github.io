@@ -1,0 +1,125 @@
+header{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background: radial-gradient(rgb(135, 206, 235), rgb(0, 36, 137));
+    margin: 0;
+}
+h1{
+    font-size: 2.6em;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    margin-bottom: 5px;
+}
+h2{
+    font-size: 1.7em;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 2px black
+}
+.container{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.pro{
+    width: 99.82%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+}
+.pro:first-child{
+        background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ),
+    url(proyecto-1.png);
+}
+.pro:nth-child(2){
+        background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ),
+    url(proyecto-2.png);
+}
+.pro:nth-child(3){
+        background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ),
+    url(proyecto-3.png);
+}
+.pro:nth-child(4){
+        background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ),
+    url(proyecto-4.png);
+}
+.pro:nth-child(5){
+        background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ),
+    url(proyecto-5.png);
+}
+.pro:nth-child(6){
+        background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ),
+    url(proyecto-6.png);
+}
+.pro:last-child{
+        background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ),
+    url(proyecto-7.png);
+}
+a{
+    font-size: 2.9em;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-left: 25%;
+    width: 50%;
+    text-decoration: none;
+    text-shadow: 2px 2px 4px black
+}
+a{
+    transition: transform 0.3s ease-in-out;
+}
+a:hover{
+    transform: scale(1.15);
+}
+p{
+    font-size: 1.95em;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 4px black
+}
