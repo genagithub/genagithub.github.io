@@ -4,12 +4,12 @@ header{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    text-align: center;
+    text-align: center;  
     background: radial-gradient(rgb(135, 206, 235), rgb(0, 36, 137));
     margin: 0;
 }
 h1{
-    font-size: 2.2em;
+    font-size: 2em;
     font-family: sans-serif;
     font-weight: bold;
     color: white;
@@ -17,7 +17,7 @@ h1{
     margin-bottom: 5px;
 }
 h2{
-    font-size: 1.3em;
+    font-size: 1em;
     font-family: sans-serif;
     font-weight: bold;
     color: white;
@@ -101,7 +101,7 @@ h2{
     url(proyecto-7.png);
 }
 a{
-    font-size: 2.5em;
+    font-size: 2em;
     font-family: sans-serif;
     font-weight: bold;
     color: white;
@@ -117,10 +117,11 @@ a:hover{
     transform: scale(1.15);
 }
 p{
-    font-size: 1.55em;
+    font-size: 1em;
     font-family: sans-serif;
     font-weight: bold;
     color: white;
     text-shadow: 2px 2px 4px black
 
 }
+
