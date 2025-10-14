@@ -117,11 +117,12 @@ a:hover{
     transform: scale(1.15);
 }
 p{
-    font-size: 1em;
+    font-size: 1.2em;
     font-family: sans-serif;
     font-weight: bold;
     color: white;
     text-shadow: 2px 2px 4px black
 
 }
+
 
