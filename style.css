@@ -61,6 +61,7 @@ h2{
     ),
     url(proyecto-2.png);
     padding: 25px 0;
+    height: 90vh;
 }
 .pro:nth-child(3){
         background-image: linear-gradient(
@@ -126,6 +127,7 @@ p{
     text-shadow: 2px 2px 4px black
 
 }
+
 
 
 
