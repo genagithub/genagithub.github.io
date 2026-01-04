@@ -1,6 +1,6 @@
 header{
     width: 100%;
-    height: 135px;
+    height: 125px;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -126,6 +126,7 @@ p{
     text-shadow: 2px 2px 4px black
 
 }
+
 
 
 
