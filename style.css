@@ -1,5 +1,5 @@
 body{
-    background-color: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    background: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
 }
 header{
     width: 100%;
@@ -130,6 +130,7 @@ p{
     text-shadow: 2px 2px 4px black
 
 }
+
 
 
 
