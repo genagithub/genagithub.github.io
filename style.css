@@ -101,7 +101,7 @@ h2{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     ),
-    url(proyecto-7.png);
+    url(proyecto_7.png);
 }
 a{
     font-size: 2em;
@@ -127,6 +127,7 @@ p{
     text-shadow: 2px 2px 4px black
 
 }
+
 
 
 
