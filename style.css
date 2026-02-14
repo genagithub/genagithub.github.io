@@ -94,6 +94,7 @@ h2{
         rgba(0,0,0,0.5)
     ),
     url(proyecto-6.png);
+    background-size: 100% 99.96%;
 }
 .pro:last-child{
         background-image: linear-gradient(
@@ -127,6 +128,7 @@ p{
     text-shadow: 2px 2px 4px black
 
 }
+
 
 
 
