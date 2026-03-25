@@ -60,7 +60,7 @@ h2{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     ),
-    url(proyecto-2.png);
+    url(proyecto_2.png);
     background-size: 100% 99.96%;
 }
 .pro:nth-child(3){
@@ -69,7 +69,7 @@ h2{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     ),
-    url(proyecto-3.png);
+    url(proyecto_3.png);
 }
 .pro:nth-child(4){
         background-image: linear-gradient(
