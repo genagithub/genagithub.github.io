@@ -7,6 +7,19 @@ header{
     text-align: center;  
     background: radial-gradient(rgb(135, 206, 235), rgb(0, 36, 137));
     margin: 0;
+    opacity: 0;
+    transform: translateY(-100%); 
+    animation: headerAppear 1.2s ease-out forwards;
+}
+@keyframes headerAppear {
+    from {
+        opacity: 0;
+        transform: translateY(-100%);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 h1{
     font-size: 1.35em;
