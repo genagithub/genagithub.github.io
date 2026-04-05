@@ -9,7 +9,7 @@ header{
     margin: 0;
     opacity: 0;
     transform: translateY(-100%); 
-    animation: headerAppear 1.2s ease-out forwards;
+    animation: headerAppear 1.6s ease-out forwards;
 }
 @keyframes headerAppear {
     from {
