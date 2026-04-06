@@ -65,7 +65,7 @@ h2{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     ),
-    url(proyecto-1.png);
+    url(proyecto_1.png);
 }
 .pro:nth-child(2){
         background-image: linear-gradient(
