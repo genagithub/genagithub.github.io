@@ -7,6 +7,7 @@ header{
     text-align: center;  
     background: radial-gradient(rgb(135, 206, 235), rgb(0, 36, 137));
     margin: 0;
+    padding: 0;
     opacity: 0;
     transform: translateY(-100%); 
     animation: headerAppear 1.6s ease-out forwards;
