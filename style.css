@@ -34,7 +34,6 @@ h1{
     text-transform: uppercase;
     letter-spacing: -2px;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
 }
 h2{
     font-size: 1em;
@@ -46,7 +45,6 @@ h2{
     text-transform: uppercase;
     letter-spacing: -2px;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
 }
 .container{
     width: 100%;
