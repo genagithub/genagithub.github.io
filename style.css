@@ -27,13 +27,12 @@ h1{
     font-size: 1.35em;
     font-family: 'Arial Black', sans-serif;
     font-weight: bold;
+    color: white;
     text-shadow: 2px 2px 2px black;
     margin-top: 5px;
     margin-bottom: 0;
     text-transform: uppercase;
     letter-spacing: -2px;
-    color: #b20000;
-    background: linear-gradient(180deg, #ff0000 20%, #7a0000 60%, #4a0000 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -46,8 +45,6 @@ h2{
     margin-top: 5px;
     text-transform: uppercase;
     letter-spacing: -2px;
-    color: #b20000;
-    background: linear-gradient(180deg, #ff0000 20%, #7a0000 60%, #4a0000 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
