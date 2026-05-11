@@ -90,7 +90,7 @@ h2{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     ),
-    url(proyecto_3.png);
+    url(proyecto-3.png);
     background-size: 100% 99.96%;
 }
 .pro:nth-child(4){
@@ -116,7 +116,7 @@ h2{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     ),
-    url(proyecto_6.png);
+    url(proyecto-6.png);
     background-size: 100% 99.96%;
 }
 .pro:last-child{
