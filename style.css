@@ -66,7 +66,7 @@ h2{
     background-repeat: no-repeat;
     border-top: 1px solid black;
 }
-.pro:first-child{
+/* .pro:first-child{
         background-image: linear-gradient(
         0deg,
         rgba(0,0,0,0.5),
@@ -74,8 +74,8 @@ h2{
     ),
     url(proyecto-1.png);
     background-size: 99.96% 100%;
-}
-.pro:nth-child(2){
+} */
+.pro:nth-child(1){
         background-image: linear-gradient(
         0deg,
         rgba(0,0,0,0.5),
@@ -84,7 +84,7 @@ h2{
     url(proyecto-2.png);
     background-size: 100% 99.96%;
 }
-.pro:nth-child(3){
+.pro:nth-child(2){
         background-image: linear-gradient(
         0deg,
         rgba(0,0,0,0.5),
@@ -93,7 +93,7 @@ h2{
     url(proyecto-3.png);
     background-size: 100% 99.96%;
 }
-.pro:nth-child(4){
+.pro:nth-child(3){
         background-image: linear-gradient(
         0deg,
         rgba(0,0,0,0.5),
@@ -101,7 +101,7 @@ h2{
     ),
     url(proyecto_4.png);
 }
-.pro:nth-child(5){
+.pro:nth-child(4){
         background-image: linear-gradient(
         0deg,
         rgba(0,0,0,0.5),
@@ -110,7 +110,7 @@ h2{
     url(proyecto-5.png);
     background-size: 100% 99.96%;
 }
-.pro:nth-child(6){
+.pro:nth-child(5){
         background-image: linear-gradient(
         0deg,
         rgba(0,0,0,0.5),
